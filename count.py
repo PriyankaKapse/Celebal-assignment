@@ -1,0 +1,6 @@
+a=(7,0,8,0,0,9)
+b=(12,23,4,56,100,32,23,3,12,23,23)
+print(a.count(0))
+print(b.count(12))
+print(b.count(23))
+print(b.count(100))
