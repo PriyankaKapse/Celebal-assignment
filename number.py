@@ -1,0 +1,12 @@
+A=10
+B=50.4
+C=2j
+D=2.0
+print(A)
+print(type(A))
+print(B)
+print(type(B))
+print(C)
+print(type(C))
+print(D)
+print(type(D))
